@@ -64,8 +64,8 @@ I break systems (ethically), build tools, and document everything I learn.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=falcon0x1&show_icons=true&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falcon0x1&layout=compact&theme=radical)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=falcon0x1&show_icons=true&theme=radical)
+![Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=falcon0x1&layout=compact&theme=radical)
 
 </div>
 
