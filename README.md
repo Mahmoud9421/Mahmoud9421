@@ -12,7 +12,7 @@ I break systems (ethically), build tools, and document everything I learn.
 
 ---
 
-## 🔎 About Me
+##  About Me
 
 - Working on real-world attack paths & vulnerability discovery  
 - Focused on API exploitation, AD attack chains, and mobile analysis  
@@ -41,7 +41,7 @@ I break systems (ethically), build tools, and document everything I learn.
 
 ---
 
-## 📘 What I’m Currently Working On
+##  What I’m Currently Working On
 
 - Web & API pentesting  
 - Android application analysis  
@@ -60,7 +60,7 @@ I break systems (ethically), build tools, and document everything I learn.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
